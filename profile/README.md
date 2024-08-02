@@ -1,4 +1,3 @@
-
 # Convención de nombres Simpro Revision 1°
 
 Este documento detalla las convenciones de nombres y formatos que deben tener todos los repositorios de I&D.
