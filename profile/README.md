@@ -5,16 +5,20 @@
 - [Sentinel](https://github.com/Simpro-SpA/sentinel_deploy)
 - [Witness](https://github.com/Simpro-SpA/witness_deploy)
 
-# Bases de datos
+## Bases de datos
 - Logbook
    - [Logbook](https://github.com/Simpro-SpA/logbook_db)
 - AI Detector
    - [Anomaly](https://github.com/Simpro-SpA/anomaly_db)
 - Sentinel
    - [Vibration](https://github.com/Simpro-SpA/vibration_db)
-
 - Witness
    - [witness](https://github.com/Simpro-SpA/witness_db)
+## Frontend
+- [AI-Detector](https://github.com/Simpro-SpA/ai_detector_frontend)
+- [Sentinel](https://github.com/Simpro-SpA/sentinel_frontend)
+- [Witness](https://github.com/Simpro-SpA/witness_frontend)
+
 
 # Convención de nombres Simpro Revision 1°
 
