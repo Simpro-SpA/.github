@@ -1,3 +1,9 @@
+# Repositorios de Despliegue
+
+- [AI-Detector](https://www.github.com/octokatherine)
+- [Sentinel](https://www.github.com/octokatherine)
+- [Witness](https://www.github.com/octokatherine)
+
 # Convención de nombres Simpro Revision 1°
 
 Este documento detalla las convenciones de nombres y formatos que deben tener todos los repositorios de I&D.
