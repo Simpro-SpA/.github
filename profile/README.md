@@ -204,17 +204,3 @@ Se refiere a un repositorio que contiene el codigo que va a ser utilizado por un
 ## Consideraciones en repositorios de librerias
 -  Repositorio/base de datos sin dueño: se asume que el dueño de algun Repositorio va a ser el encargado de la unidad de informatica y es la unica persona que puede transferir la propiedad de algun artefacto.
 - se debe mantener actualizada la lista de requerimientos de la libreria junto con la version de python que utiliza
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
