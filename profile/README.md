@@ -1,8 +1,8 @@
 # Repositorios de Despliegue
 
-- [AI-Detector](https://www.github.com/octokatherine)
-- [Sentinel](https://www.github.com/octokatherine)
-- [Witness](https://www.github.com/octokatherine)
+- [AI-Detector](https://github.com/Simpro-SpA/ai_detector_deploy)
+- [Sentinel](https://github.com/Simpro-SpA/sentinel_deploy)
+- [Witness](https://github.com/Simpro-SpA/witness_deploy)
 
 # Convención de nombres Simpro Revision 1°
 
