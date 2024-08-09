@@ -12,6 +12,7 @@
    - [Anomaly](https://github.com/Simpro-SpA/anomaly_db)
 - Sentinel
    - [Vibration](https://github.com/Simpro-SpA/vibration_db)
+   - [Sentinel](https://github.com/Simpro-SpA/sentinel_db)
 - Witness
    - [Witness](https://github.com/Simpro-SpA/witness_db)
 ## Frontend
