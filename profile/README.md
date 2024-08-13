@@ -22,7 +22,7 @@
 
 # Recursos extra importantes
 
-- [liberar espacio de wsl]([https://github.com/Simpro-SpA/witness_frontend](https://tkacz.pro/wsl-reclaiming-storage-space/))
+- [Liberar-espacio-wsl](https://tkacz.pro/wsl-reclaiming-storage-space/)
 
 
 # Convención de nombres Simpro Revision 1°
