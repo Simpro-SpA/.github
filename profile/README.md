@@ -20,6 +20,10 @@
 - [Sentinel](https://github.com/Simpro-SpA/sentinel_frontend)
 - [Witness](https://github.com/Simpro-SpA/witness_frontend)
 
+# Recursos extra importantes
+
+- [liberar espacio de wsl]([https://github.com/Simpro-SpA/witness_frontend](https://tkacz.pro/wsl-reclaiming-storage-space/))
+
 
 # Convención de nombres Simpro Revision 1°
 
