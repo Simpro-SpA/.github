@@ -3,8 +3,8 @@
 ## Despliegue
 - [AI-Detector](https://github.com/Simpro-SpA/ai_detector_deploy)
 - [Sentinel](https://github.com/Simpro-SpA/sentinel_deploy)
-- [Witness](https://github.com/Simpro-SpA/witness_deploy)
-
+- [Witness Codelco](https://github.com/Simpro-SpA/witness_codelco_deploy)
+- [Witness AMSA]()
 ## Bases de datos
 - Logbook
    - [Logbook](https://github.com/Simpro-SpA/logbook_db)
